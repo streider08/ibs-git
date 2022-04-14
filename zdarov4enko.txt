@@ -1,1 +1,2 @@
 print ("Nu_privet")
+print ("How_are_you?")
