@@ -1,0 +1,3 @@
+print ("Nu_privet")
+print ("How_are_you?")
+print ("I'm fine")
